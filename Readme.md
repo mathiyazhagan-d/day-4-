@@ -4,3 +4,6 @@
 2. question no 2 answer => **2-allContryFlags.js**
 3. question no 3 answer => **3-countryDetails.js**
 
+## you can see the output console in the netlify link given below
+
+# NETLIFY LINK => <span><a href="https://celadon-marzipan-92b6c0.netlify.app/" target="_blank">click me</a></span>
