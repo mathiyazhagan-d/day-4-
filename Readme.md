@@ -6,4 +6,4 @@
 
 ## you can see the output console in the netlify link given below
 
-# NETLIFY LINK => <span><a href="https://celadon-marzipan-92b6c0.netlify.app/" target="_blank">click me</a></span>
+# NETLIFY LINK => <span><a href="https://fanciful-fox-4b6c22.netlify.app/" target="_blank">click me</a></span>
