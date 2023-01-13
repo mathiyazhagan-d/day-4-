@@ -7,11 +7,6 @@ result.onload = () => {
   let data = JSON.parse(result.response);
   console.log(""); //when you run all three question for same.allignment perpose
   for (let i = 0; i < data.length; i++) {
-    console.log(
-      'country name : "' +
-        data[i].name.common +
-        '" and the flag : ' +
-        data[i].flags.png
-    );
+    console.log( `country name : ${data[i].name.common} and the flag : ${data[i].flags.png} `);
   }
 };
